@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Rahul Shah (aka the bug whisperer 🐛🔮)
+# 👋 Hello there! I'm Rahul Shah 
 
 ## 🚀 Software Engineer | 🛠️ System Design Enthusiast | 🎨 Code Crafter
 
