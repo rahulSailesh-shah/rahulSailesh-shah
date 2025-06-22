@@ -56,9 +56,7 @@
 
 ### 🧪 What I’ve Been Up To
 
-- 🔬 Load testing real-world systems using **Locust** and performance profiling
-- ⚙️ Building an internal tool like `forever` in **Go** that monitors background services
-- 🔐 Working on secure login dashboards using **Passport.js** and **DynamoDB**
+- ⚙️ Building an AI powered Service Mesh in Go
 - 📚 Prepping for interviews (Ask me about system design, OOP, and STAR stories 😎)
 
 ---
@@ -67,7 +65,6 @@
 
 - 🍕 I debug best with a slice of pizza and lo-fi beats.
 - 🐧 I prefer terminal tabs over browser tabs (unless you’re reading this on Firefox ❤️).
-- 🕹️ I once wrote a vending machine app in TypeScript just for fun — ask me why it's a great system design question.
 - ⏱️ I'm that developer who reads the docs… but only *after* trying everything else first.
 
 ---
@@ -83,9 +80,9 @@
 
 ### 🤝 Let’s Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- 🧠 [Dev Blog](https://dev.to/yourname)  
-- ☕ Let’s chat code, systems, or your latest bug: `you@example.com`
+- 💼 [LinkedIn](https://www.linkedin.com/in/rahul-shah17/)  
+- 🧠 [Portfolio](https://rahulshah-phi.vercel.app/)  
+- ☕ Let’s chat code, systems, or your latest bug: `shah.rahulsailesh@gmail.com`
 
 ---
 
